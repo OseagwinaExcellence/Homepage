@@ -1,0 +1,173 @@
+body {
+    background-color: mintcream;
+}
+
+header {
+    background-color: mistyrose;
+    border-radius: 10px;
+    height: 70px;
+    margin-top: 5px;
+    padding-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.span-1 {
+    margin-bottom: 5px;
+     padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+.str-1 {
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: larger;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+.p-1 {
+    margin-top: 5px;
+    padding-top: 40px;
+    font-size: smaller;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.div-1 {
+    display: block;
+    text-align: start;
+    margin-left: 20px;
+    padding-top: 200px;
+}
+li {
+    list-style: none;
+    font-size: large;
+}
+
+.my {
+    color:blue;
+    padding-top: 10px;
+    
+}
+
+.ab {
+        color:blue;
+        display: flex;
+        justify-content: end;
+        padding-right: 30px;
+        padding-top: 10px;
+}
+
+.top {
+    display: flex;
+    justify-content: end;
+    padding-top: 10px;
+    color:blue;
+
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+
+}
+
+div {
+    display: flex;
+    margin-right: 40px;
+}
+
+.section-1 {
+    background-image: url(/main\ Background.jpg);
+    background-repeat: no-repeat;
+    height: 400px;
+    border-radius: 10px;
+    background-size: cover;
+    margin-right: -1px;
+    margin-left: -1px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+
+.str-1, .span-1, .p-1 {
+    margin-top: 00px;
+    display: block;
+
+}
+span, strong, p {
+    color: white;
+}
+
+.section-2 {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 50px;
+}
+
+.blog-1-div, .blog-2-div, .blog-3-div{
+    display: block;
+    margin-top: 10px;
+
+}
+
+.blog-1-span, .blog-2-span, .blog-3-span {
+    display: block;
+    margin-top: 10px;
+}
+
+.blog-1-img, .blog-2-img, .blog-3-img {
+    width: 340px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.blog-3-span, .blog-2-span, .blog-1-span   {
+    margin-bottom: 10px;
+    color: black;
+
+}
+
+.section-3 {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 50px;
+}
+
+.blog-4-div, .blog-5-div, .blog-6-div{
+    display: block;
+    margin-top: 10px;
+
+}
+
+.blog-4-span, .blog-5-span, .blog-6-span {
+    display: block;
+    margin-top: 10px;
+}
+
+.blog-4-img, .blog-5-img, .blog-6-img {
+    width: 340px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.blog-4-span, .blog-5-span, .blog-6-span  {
+    margin-bottom: 10px;
+    color: black;
+
+}
+
+.blog-1-str, .blog-2-str, .blog-3-str, .blog-4-str, .blog-5-str, .blog-6-str {
+    color: black;
+    font-weight: bold;
+}
+
+.blog-1-p, .blog-2-p, .blog-3-p, .blog-4-p, .blog-5-p, .blog-6-p {
+    color: black;
+}
