@@ -82,7 +82,7 @@ div {
 }
 
 .section-1 {
-    background-image: url(/main\ Background.jpg);
+    background-image: url(main\ Background.jpg);
     background-repeat: no-repeat;
     height: 400px;
     border-radius: 10px;
